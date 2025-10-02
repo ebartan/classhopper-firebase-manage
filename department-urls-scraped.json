@@ -1,0 +1,467 @@
+[
+  {
+    "faculty": "Eğitim Fakültesi",
+    "facultyUrl": "http://www.egf.yildiz.edu.tr/",
+    "departmentUrl": "http://www.egf.yildiz.edu.tr/bolumler"
+  },
+  {
+    "faculty": "Eğitim Fakültesi",
+    "facultyUrl": "http://www.egf.yildiz.edu.tr/",
+    "departmentUrl": "http://www.egf.yildiz.edu.tr/bilgisayar-ve-ogretim-teknolojileri-egitimi-bolumu"
+  },
+  {
+    "faculty": "Eğitim Fakültesi",
+    "facultyUrl": "http://www.egf.yildiz.edu.tr/",
+    "departmentUrl": "http://www.egf.yildiz.edu.tr/egitim-bilimleri-bolumu"
+  },
+  {
+    "faculty": "Eğitim Fakültesi",
+    "facultyUrl": "http://www.egf.yildiz.edu.tr/",
+    "departmentUrl": "http://www.egf.yildiz.edu.tr/matematik-ve-fen-bilimleri-egitimi-bolumu"
+  },
+  {
+    "faculty": "Eğitim Fakültesi",
+    "facultyUrl": "http://www.egf.yildiz.edu.tr/",
+    "departmentUrl": "http://www.egf.yildiz.edu.tr/temel-egitim-bolumu"
+  },
+  {
+    "faculty": "Eğitim Fakültesi",
+    "facultyUrl": "http://www.egf.yildiz.edu.tr/",
+    "departmentUrl": "http://www.egf.yildiz.edu.tr/turkce-ve-sosyal-bilimler-egitimi-bolumu"
+  },
+  {
+    "faculty": "Eğitim Fakültesi",
+    "facultyUrl": "http://www.egf.yildiz.edu.tr/",
+    "departmentUrl": "http://www.egf.yildiz.edu.tr/yabanci-diller-egitimi-bolumu"
+  },
+  {
+    "faculty": "Eğitim Fakültesi",
+    "facultyUrl": "http://www.egf.yildiz.edu.tr/",
+    "departmentUrl": "http://www.egf.yildiz.edu.tr/haberler/tubitak-2209-kapsaminda-fakultemiz-turkce-ve-sosyal-bilimler-egitimi-bolumu-sosyal"
+  },
+  {
+    "faculty": "Eğitim Fakültesi",
+    "facultyUrl": "http://www.egf.yildiz.edu.tr/",
+    "departmentUrl": "http://www.egf.yildiz.edu.tr/haberler/tubitak-2209-kapsaminda-fakultemiz-turkce-ve-sosyal-bilimler-egitimi-bolumu-turkce-1"
+  },
+  {
+    "faculty": "Eğitim Fakültesi",
+    "facultyUrl": "http://www.egf.yildiz.edu.tr/",
+    "departmentUrl": "http://www.egf.yildiz.edu.tr/haberler/tubitak-2209-kapsaminda-fakultemiz-turkce-ve-sosyal-bilimler-egitimi-bolumu-turkce-0"
+  },
+  {
+    "faculty": "Eğitim Fakültesi",
+    "facultyUrl": "http://www.egf.yildiz.edu.tr/",
+    "departmentUrl": "http://www.egf.yildiz.edu.tr/haberler/tubitak-2209-kapsaminda-fakultemiz-turkce-ve-sosyal-bilimler-egitimi-bolumu-turkce-egitimi"
+  },
+  {
+    "faculty": "Eğitim Fakültesi",
+    "facultyUrl": "http://www.egf.yildiz.edu.tr/",
+    "departmentUrl": "http://www.egf.yildiz.edu.tr/haberler/tubitak-2209-kapsaminda-fakultemiz-matematik-ve-fen-bilimleri-egitimi-bolumu-matematik-1"
+  },
+  {
+    "faculty": "Eğitim Fakültesi",
+    "facultyUrl": "http://www.egf.yildiz.edu.tr/",
+    "departmentUrl": "http://www.egf.yildiz.edu.tr/haberler/tubitak-2209-kapsaminda-fakultemiz-matematik-ve-fen-bilimleri-egitimi-bolumu-matematik-2"
+  },
+  {
+    "faculty": "Eğitim Fakültesi",
+    "facultyUrl": "http://www.egf.yildiz.edu.tr/",
+    "departmentUrl": "http://www.egf.yildiz.edu.tr/haberler/tubitak-2209-kapsaminda-fakultemiz-matematik-ve-fen-bilimleri-egitimi-bolumu-matematik-3"
+  },
+  {
+    "faculty": "Eğitim Fakültesi",
+    "facultyUrl": "http://www.egf.yildiz.edu.tr/",
+    "departmentUrl": "http://www.egf.yildiz.edu.tr/haberler/tubitak-2209-kapsaminda-fakultemiz-matematik-ve-fen-bilimleri-egitimi-bolumu-matematik-0"
+  },
+  {
+    "faculty": "Eğitim Fakültesi",
+    "facultyUrl": "http://www.egf.yildiz.edu.tr/",
+    "departmentUrl": "http://www.egf.yildiz.edu.tr/haberler/tubitak-2209-kapsaminda-fakultemiz-matematik-ve-fen-bilimleri-egitimi-bolumu-matematik"
+  },
+  {
+    "faculty": "Eğitim Fakültesi",
+    "facultyUrl": "http://www.egf.yildiz.edu.tr/",
+    "departmentUrl": "http://www.egf.yildiz.edu.tr/haberler/tubitak-2209-kapsaminda-fakultemiz-bilgisayar-ve-ogretim-teknolojileri-egitimi-bolumunde-0"
+  },
+  {
+    "faculty": "Eğitim Fakültesi",
+    "facultyUrl": "http://www.egf.yildiz.edu.tr/",
+    "departmentUrl": "http://www.egf.yildiz.edu.tr/haberler/tubitak-2209-kapsaminda-fakultemiz-bilgisayar-ve-ogretim-teknolojileri-egitimi-bolumunde"
+  },
+  {
+    "faculty": "Elektrik-Elektronik Fakültesi",
+    "facultyUrl": "http://www.elk.yildiz.edu.tr/",
+    "departmentUrl": "https://elk.yildiz.edu.tr/bolumler"
+  },
+  {
+    "faculty": "Elektrik-Elektronik Fakültesi",
+    "facultyUrl": "http://www.elk.yildiz.edu.tr/",
+    "departmentUrl": "http://ce.yildiz.edu.tr/"
+  },
+  {
+    "faculty": "Elektrik-Elektronik Fakültesi",
+    "facultyUrl": "http://www.elk.yildiz.edu.tr/",
+    "departmentUrl": "http://bme.yildiz.edu.tr/"
+  },
+  {
+    "faculty": "Elektrik-Elektronik Fakültesi",
+    "facultyUrl": "http://www.elk.yildiz.edu.tr/",
+    "departmentUrl": "http://elm.yildiz.edu.tr/"
+  },
+  {
+    "faculty": "Elektrik-Elektronik Fakültesi",
+    "facultyUrl": "http://www.elk.yildiz.edu.tr/",
+    "departmentUrl": "http://ehm.yildiz.edu.tr/"
+  },
+  {
+    "faculty": "Elektrik-Elektronik Fakültesi",
+    "facultyUrl": "http://www.elk.yildiz.edu.tr/",
+    "departmentUrl": "http://kom.yildiz.edu.tr/"
+  },
+  {
+    "faculty": "Elektrik-Elektronik Fakültesi",
+    "facultyUrl": "http://www.elk.yildiz.edu.tr/",
+    "departmentUrl": "http://ai.yildiz.edu.tr/"
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "departmentUrl": "http://www.fed.yildiz.edu.tr/fef-bolum-tanitim"
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "departmentUrl": "http://www.fed.yildiz.edu.tr/matematik-bolumu"
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "departmentUrl": "http://www.fed.yildiz.edu.tr/fizik-bolumu"
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "departmentUrl": "http://www.fed.yildiz.edu.tr/kimya-bolumu"
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "departmentUrl": "http://www.fed.yildiz.edu.tr/molekuler-biyoloji-ve-genetik-bolumu"
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "departmentUrl": "http://www.fed.yildiz.edu.tr/istatistik-bolumu"
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "departmentUrl": "http://www.fed.yildiz.edu.tr/turk-dili-ve-edebiyati-bolumu"
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "departmentUrl": "http://www.fed.yildiz.edu.tr/bati-dilleri-ve-edebiyatlari-bolumu"
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "departmentUrl": "http://www.fed.yildiz.edu.tr/department-mathematics"
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "departmentUrl": "http://www.fed.yildiz.edu.tr/department-physics"
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "departmentUrl": "http://www.fed.yildiz.edu.tr/department-chemistry"
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "departmentUrl": "http://www.fed.yildiz.edu.tr/department-molecular-biology-and-genetics"
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "departmentUrl": "http://www.fed.yildiz.edu.tr/department-statistics"
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "departmentUrl": "http://www.fed.yildiz.edu.tr/department-turkish-language-and-literature"
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "departmentUrl": "http://www.fed.yildiz.edu.tr/department-western-languages-and-literatures"
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "departmentUrl": "http://www.fed.yildiz.edu.tr/bolumler"
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "departmentUrl": "http://www.fed.yildiz.edu.tr/matematik-bolumu-dersleri"
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "departmentUrl": "http://www.fed.yildiz.edu.tr/fizik-bolumu-dersleri"
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "departmentUrl": "http://www.fed.yildiz.edu.tr/kimya-bolumu-dersleri"
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "departmentUrl": "http://www.fed.yildiz.edu.tr/molekuler-biyoloji-ve-genetik-bolumu-dersleri"
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "departmentUrl": "http://www.fed.yildiz.edu.tr/istatistik-bolumu-dersleri"
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "departmentUrl": "http://www.fed.yildiz.edu.tr/turk-dili-ve-edebiyati-bolumu-dersleri"
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "departmentUrl": "http://www.fed.yildiz.edu.tr/bati-dilleri-ve-edebiyatlari-bolumu-dersleri"
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "departmentUrl": "http://www.fed.yildiz.edu.tr/sertifika-programlari/matematik-bolumu-sertifika-programlari"
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "departmentUrl": "http://www.fed.yildiz.edu.tr/sertifika-programlari/fizik-bolumu-sertifika-programlari"
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "departmentUrl": "http://www.fed.yildiz.edu.tr/sertifika-programlari/kimya-bolumu-sertifika-programlari"
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "departmentUrl": "http://www.fed.yildiz.edu.tr/sertifika-programlari/istatistik-bolumu-sertifika-programlari"
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "departmentUrl": "http://www.fed.yildiz.edu.tr/sertifika-programlari/turk-dili-ve-edebiyati-bolumu-sertifika-programlari"
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "departmentUrl": "http://www.fed.yildiz.edu.tr/duyurular/fakulte-carsamba-seminerleri-bolum-seminer-takvimleri"
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "departmentUrl": "https://fed.yildiz.edu.tr/bolumler"
+  },
+  {
+    "faculty": "Gemi İnşaatı ve Denizcilik Fakültesi",
+    "facultyUrl": "http://www.gidf.yildiz.edu.tr/",
+    "departmentUrl": "http://www.gidf.yildiz.edu.tr/gemi-insaati-ve-gemi-makineleri-muhendisligi-bolumu"
+  },
+  {
+    "faculty": "Gemi İnşaatı ve Denizcilik Fakültesi",
+    "facultyUrl": "http://www.gidf.yildiz.edu.tr/",
+    "departmentUrl": "http://www.gidf.yildiz.edu.tr/gemi-makineleri-isletme-muhendisligi-bolumu"
+  },
+  {
+    "faculty": "Gemi İnşaatı ve Denizcilik Fakültesi",
+    "facultyUrl": "http://www.gidf.yildiz.edu.tr/",
+    "departmentUrl": "http://gim.yildiz.edu.tr/"
+  },
+  {
+    "faculty": "Gemi İnşaatı ve Denizcilik Fakültesi",
+    "facultyUrl": "http://www.gidf.yildiz.edu.tr/",
+    "departmentUrl": "http://gmim.yildiz.edu.tr/"
+  },
+  {
+    "faculty": "İktisadi ve İdari Bilimler Fakültesi",
+    "facultyUrl": "http://www.iib.yildiz.edu.tr/",
+    "departmentUrl": "http://www.iib.yildiz.edu.tr/bolumler"
+  },
+  {
+    "faculty": "İktisadi ve İdari Bilimler Fakültesi",
+    "facultyUrl": "http://www.iib.yildiz.edu.tr/",
+    "departmentUrl": "http://ikt.yildiz.edu.tr/"
+  },
+  {
+    "faculty": "İktisadi ve İdari Bilimler Fakültesi",
+    "facultyUrl": "http://www.iib.yildiz.edu.tr/",
+    "departmentUrl": "http://isl.yildiz.edu.tr/"
+  },
+  {
+    "faculty": "İktisadi ve İdari Bilimler Fakültesi",
+    "facultyUrl": "http://www.iib.yildiz.edu.tr/",
+    "departmentUrl": "http://sbu.yildiz.edu.tr/"
+  },
+  {
+    "faculty": "İnşaat Fakültesi",
+    "facultyUrl": "http://www.ins.yildiz.edu.tr/",
+    "departmentUrl": "http://www.ins.yildiz.edu.tr/bolumler"
+  },
+  {
+    "faculty": "İnşaat Fakültesi",
+    "facultyUrl": "http://www.ins.yildiz.edu.tr/",
+    "departmentUrl": "https://inm.yildiz.edu.tr/en"
+  },
+  {
+    "faculty": "İnşaat Fakültesi",
+    "facultyUrl": "http://www.ins.yildiz.edu.tr/",
+    "departmentUrl": "https://hrm.yildiz.edu.tr/en"
+  },
+  {
+    "faculty": "İnşaat Fakültesi",
+    "facultyUrl": "http://www.ins.yildiz.edu.tr/",
+    "departmentUrl": "https://cem.yildiz.edu.tr/en"
+  },
+  {
+    "faculty": "İnşaat Fakültesi",
+    "facultyUrl": "http://www.ins.yildiz.edu.tr/",
+    "departmentUrl": "https://ins.yildiz.edu.tr/bolumler"
+  },
+  {
+    "faculty": "Kimya-Metalurji Fakültesi",
+    "facultyUrl": "http://www.kim.yildiz.edu.tr/",
+    "departmentUrl": "http://www.bioeng.yildiz.edu.tr/"
+  },
+  {
+    "faculty": "Kimya-Metalurji Fakültesi",
+    "facultyUrl": "http://www.kim.yildiz.edu.tr/",
+    "departmentUrl": "http://www.food.yildiz.edu.tr/"
+  },
+  {
+    "faculty": "Kimya-Metalurji Fakültesi",
+    "facultyUrl": "http://www.kim.yildiz.edu.tr/",
+    "departmentUrl": "http://www.kmm.yildiz.edu.tr/"
+  },
+  {
+    "faculty": "Kimya-Metalurji Fakültesi",
+    "facultyUrl": "http://www.kim.yildiz.edu.tr/",
+    "departmentUrl": "http://www.mtm.yildiz.edu.tr/"
+  },
+  {
+    "faculty": "Kimya-Metalurji Fakültesi",
+    "facultyUrl": "http://www.kim.yildiz.edu.tr/",
+    "departmentUrl": "http://www.met.yildiz.edu.tr/"
+  },
+  {
+    "faculty": "Kimya-Metalurji Fakültesi",
+    "facultyUrl": "http://www.kim.yildiz.edu.tr/",
+    "departmentUrl": "http://bioeng.yildiz.edu.tr/"
+  },
+  {
+    "faculty": "Kimya-Metalurji Fakültesi",
+    "facultyUrl": "http://www.kim.yildiz.edu.tr/",
+    "departmentUrl": "http://food.yildiz.edu.tr/"
+  },
+  {
+    "faculty": "Kimya-Metalurji Fakültesi",
+    "facultyUrl": "http://www.kim.yildiz.edu.tr/",
+    "departmentUrl": "http://kmm.yildiz.edu.tr/"
+  },
+  {
+    "faculty": "Kimya-Metalurji Fakültesi",
+    "facultyUrl": "http://www.kim.yildiz.edu.tr/",
+    "departmentUrl": "http://mtm.yildiz.edu.tr/"
+  },
+  {
+    "faculty": "Kimya-Metalurji Fakültesi",
+    "facultyUrl": "http://www.kim.yildiz.edu.tr/",
+    "departmentUrl": "http://met.yildiz.edu.tr/"
+  },
+  {
+    "faculty": "Makine Fakültesi",
+    "facultyUrl": "http://www.mak.yildiz.edu.tr/",
+    "departmentUrl": "http://www.mak.yildiz.edu.tr/bolumler"
+  },
+  {
+    "faculty": "Makine Fakültesi",
+    "facultyUrl": "http://www.mak.yildiz.edu.tr/",
+    "departmentUrl": "http://mkm.yildiz.edu.tr/"
+  },
+  {
+    "faculty": "Makine Fakültesi",
+    "facultyUrl": "http://www.mak.yildiz.edu.tr/",
+    "departmentUrl": "http://enm.yildiz.edu.tr/"
+  },
+  {
+    "faculty": "Makine Fakültesi",
+    "facultyUrl": "http://www.mak.yildiz.edu.tr/",
+    "departmentUrl": "http://mkt.yildiz.edu.tr/"
+  },
+  {
+    "faculty": "Mimarlık Fakültesi",
+    "facultyUrl": "http://www.mmr.yildiz.edu.tr/",
+    "departmentUrl": "https://mim.yildiz.edu.tr/tr/tr/personel-0/akademik-kadro"
+  },
+  {
+    "faculty": "Mimarlık Fakültesi",
+    "facultyUrl": "http://www.mmr.yildiz.edu.tr/",
+    "departmentUrl": "https://sbp.yildiz.edu.tr/akademik-personel"
+  },
+  {
+    "faculty": "Mimarlık Fakültesi",
+    "facultyUrl": "http://www.mmr.yildiz.edu.tr/",
+    "departmentUrl": "https://kvko.yildiz.edu.tr/kisiler/2/0/1"
+  },
+  {
+    "faculty": "Mimarlık Fakültesi",
+    "facultyUrl": "http://www.mmr.yildiz.edu.tr/",
+    "departmentUrl": "http://www.mmr.yildiz.edu.tr/bolumler"
+  },
+  {
+    "faculty": "Mimarlık Fakültesi",
+    "facultyUrl": "http://www.mmr.yildiz.edu.tr/",
+    "departmentUrl": "http://mim.yildiz.edu.tr/"
+  },
+  {
+    "faculty": "Mimarlık Fakültesi",
+    "facultyUrl": "http://www.mmr.yildiz.edu.tr/",
+    "departmentUrl": "http://sbp.yildiz.edu.tr/"
+  },
+  {
+    "faculty": "Mimarlık Fakültesi",
+    "facultyUrl": "http://www.mmr.yildiz.edu.tr/",
+    "departmentUrl": "http://kvko.yildiz.edu.tr/"
+  },
+  {
+    "faculty": "Sanat ve Tasarım Fakültesi",
+    "facultyUrl": "http://www.sts.yildiz.edu.tr/",
+    "departmentUrl": "http://www.sts.yildiz.edu.tr/https%3A/sts.yildiz.edu.tr/akademik/bolumler"
+  },
+  {
+    "faculty": "Sanat ve Tasarım Fakültesi",
+    "facultyUrl": "http://www.sts.yildiz.edu.tr/",
+    "departmentUrl": "https://mssb.yildiz.edu.tr/index.php"
+  },
+  {
+    "faculty": "Sanat ve Tasarım Fakültesi",
+    "facultyUrl": "http://www.sts.yildiz.edu.tr/",
+    "departmentUrl": "https://ilet.yildiz.edu.tr/"
+  },
+  {
+    "faculty": "Sanat ve Tasarım Fakültesi",
+    "facultyUrl": "http://www.sts.yildiz.edu.tr/",
+    "departmentUrl": "https://sab.yildiz.edu.tr/index.php"
+  }
+]

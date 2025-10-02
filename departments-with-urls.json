@@ -1,0 +1,646 @@
+[
+  {
+    "faculty": "Eğitim Fakültesi",
+    "facultyUrl": "http://www.egf.yildiz.edu.tr/",
+    "name": "Bilgisayar Ve Ogretim Teknolojileri Egitimi",
+    "url": "http://www.egf.yildiz.edu.tr/bilgisayar-ve-ogretim-teknolojileri-egitimi-bolumu",
+    "isSubdomain": false,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Eğitim Fakültesi",
+    "facultyUrl": "http://www.egf.yildiz.edu.tr/",
+    "name": "Egitim Bilimleri",
+    "url": "http://www.egf.yildiz.edu.tr/egitim-bilimleri-bolumu",
+    "isSubdomain": false,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Eğitim Fakültesi",
+    "facultyUrl": "http://www.egf.yildiz.edu.tr/",
+    "name": "Matematik Ve Fen Bilimleri Egitimi",
+    "url": "http://www.egf.yildiz.edu.tr/matematik-ve-fen-bilimleri-egitimi-bolumu",
+    "isSubdomain": false,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Eğitim Fakültesi",
+    "facultyUrl": "http://www.egf.yildiz.edu.tr/",
+    "name": "Temel Egitim",
+    "url": "http://www.egf.yildiz.edu.tr/temel-egitim-bolumu",
+    "isSubdomain": false,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Eğitim Fakültesi",
+    "facultyUrl": "http://www.egf.yildiz.edu.tr/",
+    "name": "Turkce Ve Sosyal Bilimler Egitimi",
+    "url": "http://www.egf.yildiz.edu.tr/turkce-ve-sosyal-bilimler-egitimi-bolumu",
+    "isSubdomain": false,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Eğitim Fakültesi",
+    "facultyUrl": "http://www.egf.yildiz.edu.tr/",
+    "name": "Yabanci Diller Egitimi",
+    "url": "http://www.egf.yildiz.edu.tr/yabanci-diller-egitimi-bolumu",
+    "isSubdomain": false,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Elektrik-Elektronik Fakültesi",
+    "facultyUrl": "http://www.elk.yildiz.edu.tr/",
+    "name": "CE",
+    "url": "http://ce.yildiz.edu.tr/",
+    "isSubdomain": true,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Elektrik-Elektronik Fakültesi",
+    "facultyUrl": "http://www.elk.yildiz.edu.tr/",
+    "name": "BME",
+    "url": "http://bme.yildiz.edu.tr/",
+    "isSubdomain": true,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Elektrik-Elektronik Fakültesi",
+    "facultyUrl": "http://www.elk.yildiz.edu.tr/",
+    "name": "ELM",
+    "url": "http://elm.yildiz.edu.tr/",
+    "isSubdomain": true,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Elektrik-Elektronik Fakültesi",
+    "facultyUrl": "http://www.elk.yildiz.edu.tr/",
+    "name": "EHM",
+    "url": "http://ehm.yildiz.edu.tr/",
+    "isSubdomain": true,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Elektrik-Elektronik Fakültesi",
+    "facultyUrl": "http://www.elk.yildiz.edu.tr/",
+    "name": "KOM",
+    "url": "http://kom.yildiz.edu.tr/",
+    "isSubdomain": true,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Elektrik-Elektronik Fakültesi",
+    "facultyUrl": "http://www.elk.yildiz.edu.tr/",
+    "name": "AI",
+    "url": "http://ai.yildiz.edu.tr/",
+    "isSubdomain": true,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "name": "Fef Bolum Tanitim",
+    "url": "http://www.fed.yildiz.edu.tr/fef-bolum-tanitim",
+    "isSubdomain": false,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "name": "Matematik",
+    "url": "http://www.fed.yildiz.edu.tr/matematik-bolumu",
+    "isSubdomain": false,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "name": "Fizik",
+    "url": "http://www.fed.yildiz.edu.tr/fizik-bolumu",
+    "isSubdomain": false,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "name": "Kimya",
+    "url": "http://www.fed.yildiz.edu.tr/kimya-bolumu",
+    "isSubdomain": false,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "name": "Molekuler Biyoloji Ve Genetik",
+    "url": "http://www.fed.yildiz.edu.tr/molekuler-biyoloji-ve-genetik-bolumu",
+    "isSubdomain": false,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "name": "Istatistik",
+    "url": "http://www.fed.yildiz.edu.tr/istatistik-bolumu",
+    "isSubdomain": false,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "name": "Turk Dili Ve Edebiyati",
+    "url": "http://www.fed.yildiz.edu.tr/turk-dili-ve-edebiyati-bolumu",
+    "isSubdomain": false,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Fen-Edebiyat Fakültesi",
+    "facultyUrl": "http://www.fed.yildiz.edu.tr/",
+    "name": "Bati Dilleri Ve Edebiyatlari",
+    "url": "http://www.fed.yildiz.edu.tr/bati-dilleri-ve-edebiyatlari-bolumu",
+    "isSubdomain": false,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Gemi İnşaatı ve Denizcilik Fakültesi",
+    "facultyUrl": "http://www.gidf.yildiz.edu.tr/",
+    "name": "Gemi Insaati Ve Gemi Makineleri Muhendisligi",
+    "url": "http://www.gidf.yildiz.edu.tr/gemi-insaati-ve-gemi-makineleri-muhendisligi-bolumu",
+    "isSubdomain": false,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Gemi İnşaatı ve Denizcilik Fakültesi",
+    "facultyUrl": "http://www.gidf.yildiz.edu.tr/",
+    "name": "Gemi Makineleri Isletme Muhendisligi",
+    "url": "http://www.gidf.yildiz.edu.tr/gemi-makineleri-isletme-muhendisligi-bolumu",
+    "isSubdomain": false,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Gemi İnşaatı ve Denizcilik Fakültesi",
+    "facultyUrl": "http://www.gidf.yildiz.edu.tr/",
+    "name": "GIM",
+    "url": "http://gim.yildiz.edu.tr/",
+    "isSubdomain": true,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Gemi İnşaatı ve Denizcilik Fakültesi",
+    "facultyUrl": "http://www.gidf.yildiz.edu.tr/",
+    "name": "GMIM",
+    "url": "http://gmim.yildiz.edu.tr/",
+    "isSubdomain": true,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "İktisadi ve İdari Bilimler Fakültesi",
+    "facultyUrl": "http://www.iib.yildiz.edu.tr/",
+    "name": "IKT",
+    "url": "http://ikt.yildiz.edu.tr/",
+    "isSubdomain": true,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "İktisadi ve İdari Bilimler Fakültesi",
+    "facultyUrl": "http://www.iib.yildiz.edu.tr/",
+    "name": "ISL",
+    "url": "http://isl.yildiz.edu.tr/",
+    "isSubdomain": true,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "İktisadi ve İdari Bilimler Fakültesi",
+    "facultyUrl": "http://www.iib.yildiz.edu.tr/",
+    "name": "SBU",
+    "url": "http://sbu.yildiz.edu.tr/",
+    "isSubdomain": true,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Kimya-Metalurji Fakültesi",
+    "facultyUrl": "http://www.kim.yildiz.edu.tr/",
+    "name": "",
+    "url": "http://www.bioeng.yildiz.edu.tr/",
+    "isSubdomain": false,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Kimya-Metalurji Fakültesi",
+    "facultyUrl": "http://www.kim.yildiz.edu.tr/",
+    "name": "",
+    "url": "http://www.food.yildiz.edu.tr/",
+    "isSubdomain": false,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Kimya-Metalurji Fakültesi",
+    "facultyUrl": "http://www.kim.yildiz.edu.tr/",
+    "name": "",
+    "url": "http://www.kmm.yildiz.edu.tr/",
+    "isSubdomain": false,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Kimya-Metalurji Fakültesi",
+    "facultyUrl": "http://www.kim.yildiz.edu.tr/",
+    "name": "",
+    "url": "http://www.mtm.yildiz.edu.tr/",
+    "isSubdomain": false,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Kimya-Metalurji Fakültesi",
+    "facultyUrl": "http://www.kim.yildiz.edu.tr/",
+    "name": "",
+    "url": "http://www.met.yildiz.edu.tr/",
+    "isSubdomain": false,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Kimya-Metalurji Fakültesi",
+    "facultyUrl": "http://www.kim.yildiz.edu.tr/",
+    "name": "BIOENG",
+    "url": "http://bioeng.yildiz.edu.tr/",
+    "isSubdomain": true,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Kimya-Metalurji Fakültesi",
+    "facultyUrl": "http://www.kim.yildiz.edu.tr/",
+    "name": "FOOD",
+    "url": "http://food.yildiz.edu.tr/",
+    "isSubdomain": true,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Kimya-Metalurji Fakültesi",
+    "facultyUrl": "http://www.kim.yildiz.edu.tr/",
+    "name": "KMM",
+    "url": "http://kmm.yildiz.edu.tr/",
+    "isSubdomain": true,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Kimya-Metalurji Fakültesi",
+    "facultyUrl": "http://www.kim.yildiz.edu.tr/",
+    "name": "MTM",
+    "url": "http://mtm.yildiz.edu.tr/",
+    "isSubdomain": true,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Kimya-Metalurji Fakültesi",
+    "facultyUrl": "http://www.kim.yildiz.edu.tr/",
+    "name": "MET",
+    "url": "http://met.yildiz.edu.tr/",
+    "isSubdomain": true,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Makine Fakültesi",
+    "facultyUrl": "http://www.mak.yildiz.edu.tr/",
+    "name": "MKM",
+    "url": "http://mkm.yildiz.edu.tr/",
+    "isSubdomain": true,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Makine Fakültesi",
+    "facultyUrl": "http://www.mak.yildiz.edu.tr/",
+    "name": "MKT",
+    "url": "http://mkt.yildiz.edu.tr/",
+    "isSubdomain": true,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Mimarlık Fakültesi",
+    "facultyUrl": "http://www.mmr.yildiz.edu.tr/",
+    "name": "KVKO",
+    "url": "https://kvko.yildiz.edu.tr/kisiler/2/0/1",
+    "isSubdomain": true,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Mimarlık Fakültesi",
+    "facultyUrl": "http://www.mmr.yildiz.edu.tr/",
+    "name": "MIM",
+    "url": "http://mim.yildiz.edu.tr/",
+    "isSubdomain": true,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Mimarlık Fakültesi",
+    "facultyUrl": "http://www.mmr.yildiz.edu.tr/",
+    "name": "SBP",
+    "url": "http://sbp.yildiz.edu.tr/",
+    "isSubdomain": true,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Mimarlık Fakültesi",
+    "facultyUrl": "http://www.mmr.yildiz.edu.tr/",
+    "name": "KVKO",
+    "url": "http://kvko.yildiz.edu.tr/",
+    "isSubdomain": true,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Sanat ve Tasarım Fakültesi",
+    "facultyUrl": "http://www.sts.yildiz.edu.tr/",
+    "name": "MSSB",
+    "url": "https://mssb.yildiz.edu.tr/index.php",
+    "isSubdomain": true,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Sanat ve Tasarım Fakültesi",
+    "facultyUrl": "http://www.sts.yildiz.edu.tr/",
+    "name": "ILET",
+    "url": "https://ilet.yildiz.edu.tr/",
+    "isSubdomain": true,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  },
+  {
+    "faculty": "Sanat ve Tasarım Fakültesi",
+    "facultyUrl": "http://www.sts.yildiz.edu.tr/",
+    "name": "SAB",
+    "url": "https://sab.yildiz.edu.tr/index.php",
+    "isSubdomain": true,
+    "socialMedia": {
+      "twitter": "",
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": ""
+    }
+  }
+]
