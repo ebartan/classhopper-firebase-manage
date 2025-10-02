@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Bilgisayar Mühendisliği",
+    "faculty": "Elektrik-Elektronik Fakültesi",
+    "url": "http://bim.yildiz.edu.tr/",
+    "socialMedia": {
+      "twitter": "https://twitter.com/ytu_ce/status/1800798451778605229",
+      "instagram": "https://www.instagram.com/ytu_ce/",
+      "facebook": "https://www.facebook.com/ytubilgisayarmuhendisligi/?locale=tr_TR",
+      "linkedin": "https://tr.linkedin.com/in/ytuce",
+      "youtube": "https://www.youtube.com/@YTU_CE"
+    }
+  },
+  {
+    "name": "Biyomedikal Mühendisliği",
+    "faculty": "Elektrik-Elektronik Fakültesi",
+    "url": "http://bio.yildiz.edu.tr/",
+    "socialMedia": {
+      "twitter": "https://twitter.com/bmeytu/status/1785356914055934203",
+      "instagram": "https://www.instagram.com/bmeytu/",
+      "facebook": "https://www.facebook.com/ytubiyomedikalmuhendisligi/?locale=tr_TR",
+      "linkedin": "https://tr.linkedin.com/in/bmeytu",
+      "youtube": "https://www.youtube.com/watch?v=OcJu9qae-II"
+    }
+  },
+  {
+    "name": "Yapay Zeka ve Veri Mühendisliği",
+    "faculty": "Elektrik-Elektronik Fakültesi",
+    "url": "http://yzvm.yildiz.edu.tr/",
+    "socialMedia": {
+      "twitter": "https://twitter.com/TimesofTurkiye/status/1817430436907237698",
+      "instagram": "https://www.instagram.com/ai.yildiz/",
+      "facebook": "https://www.facebook.com/YildizEdu/photos/yt%C3%BCde-enerji-finans-ve-dijital-pazarlamada-yapay-zeka-tabanl%C4%B1-belirsizli%C4%9Fi-%C3%B6ng%C3%B6r/1166214502209980/",
+      "linkedin": "https://tr.linkedin.com/in/yt%C3%BC-yapay-zeka-ve-veri-m%C3%BChendisli%C4%9Fi-85654831a",
+      "youtube": "https://www.youtube.com/watch?v=_vBXrTh1wiQ"
+    }
+  },
+  {
+    "name": "İnşaat Mühendisliği",
+    "faculty": "İnşaat Fakültesi",
+    "url": "https://ins.yildiz.edu.tr/",
+    "socialMedia": {
+      "twitter": "https://twitter.com/ytu_insaat/status/1811453260277912014",
+      "instagram": "https://www.instagram.com/ytu.insaat.fakultesi/",
+      "facebook": "https://www.facebook.com/YtuInsaatMuhendisligi/",
+      "linkedin": "https://www.linkedin.com/school/y%C4%B1ld%C4%B1z-teknik-%C3%BCniversitesi/",
+      "youtube": "https://www.youtube.com/watch?v=HtpjTMqKO7k"
+    }
+  },
+  {
+    "name": "Harita Mühendisliği",
+    "faculty": "İnşaat Fakültesi",
+    "url": "https://har.yildiz.edu.tr/",
+    "socialMedia": {
+      "twitter": "https://twitter.com/teknikyildiz0",
+      "instagram": "https://www.instagram.com/ytuhrtmhn/",
+      "facebook": "https://www.facebook.com/hkmoistanbul/posts/yildiz-teknik-%C3%BCniversitesi-harita-m%C3%BChendisli%C4%9Fi-b%C3%B6l%C3%BCm%C3%BC-2024-mezuniyet-%C3%B6d%C3%BCl-t%C3%B6reni/877160384443290/",
+      "linkedin": "https://tr.linkedin.com/company/ytu-harita-muhendisli%C4%9Fi",
+      "youtube": "https://www.youtube.com/watch?v=HXVwBOiDNTE"
+    }
+  },
+  {
+    "name": "Endüstri Mühendisliği",
+    "faculty": "Makine Fakültesi",
+    "url": "http://enm.yildiz.edu.tr/",
+    "socialMedia": {
+      "twitter": "https://twitter.com/YTU_Endustri/status/1877426734309445731",
+      "instagram": "https://www.instagram.com/ytu_endustri/",
+      "facebook": "https://m.facebook.com/yildizenm/photos/",
+      "linkedin": "https://tr.linkedin.com/in/ytuendustri",
+      "youtube": "https://www.youtube.com/watch?v=Rzo2jH3X2HE"
+    }
+  }
+]

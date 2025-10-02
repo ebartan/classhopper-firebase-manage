@@ -1,0 +1,212 @@
+[
+  {
+    "bolumAdi": "İlköğretim Matematik Öğretmenliği",
+    "fakulteAdi": "Eğitim Fakültesi",
+    "url": ""
+  },
+  {
+    "bolumAdi": "Türkçe Öğretmenliği",
+    "fakulteAdi": "Eğitim Fakültesi",
+    "url": ""
+  },
+  {
+    "bolumAdi": "İngilizce Öğretmenliği",
+    "fakulteAdi": "Eğitim Fakültesi",
+    "url": ""
+  },
+  {
+    "bolumAdi": "Bilgisayar ve Öğretim Teknolojileri Öğretmenliği",
+    "fakulteAdi": "Eğitim Fakültesi",
+    "url": ""
+  },
+  {
+    "bolumAdi": "Okul Öncesi Öğretmenliği",
+    "fakulteAdi": "Eğitim Fakültesi",
+    "url": ""
+  },
+  {
+    "bolumAdi": "Rehberlik ve Psikolojik Danışmanlık",
+    "fakulteAdi": "Eğitim Fakültesi",
+    "url": ""
+  },
+  {
+    "bolumAdi": "Bilgisayar Mühendisliği",
+    "fakulteAdi": "Elektrik-Elektronik Fakültesi",
+    "url": "http://bim.yildiz.edu.tr/"
+  },
+  {
+    "bolumAdi": "Biyomedikal Mühendisliği",
+    "fakulteAdi": "Elektrik-Elektronik Fakültesi",
+    "url": "http://bio.yildiz.edu.tr/"
+  },
+  {
+    "bolumAdi": "Elektrik Mühendisliği",
+    "fakulteAdi": "Elektrik-Elektronik Fakültesi",
+    "url": "http://elm.yildiz.edu.tr/"
+  },
+  {
+    "bolumAdi": "Elektronik ve Haberleşme Mühendisliği",
+    "fakulteAdi": "Elektrik-Elektronik Fakültesi",
+    "url": "http://ehm.yildiz.edu.tr/"
+  },
+  {
+    "bolumAdi": "Kontrol ve Otomasyon Mühendisliği",
+    "fakulteAdi": "Elektrik-Elektronik Fakültesi",
+    "url": "http://kom.yildiz.edu.tr/"
+  },
+  {
+    "bolumAdi": "Yapay Zeka ve Veri Mühendisliği",
+    "fakulteAdi": "Elektrik-Elektronik Fakültesi",
+    "url": "http://yzvm.yildiz.edu.tr/"
+  },
+  {
+    "bolumAdi": "Batı Dilleri ve Edebiyatları",
+    "fakulteAdi": "Fen-Edebiyat Fakültesi",
+    "url": ""
+  },
+  {
+    "bolumAdi": "Fizik",
+    "fakulteAdi": "Fen-Edebiyat Fakültesi",
+    "url": ""
+  },
+  {
+    "bolumAdi": "İstatistik",
+    "fakulteAdi": "Fen-Edebiyat Fakültesi",
+    "url": ""
+  },
+  {
+    "bolumAdi": "Kimya",
+    "fakulteAdi": "Fen-Edebiyat Fakültesi",
+    "url": ""
+  },
+  {
+    "bolumAdi": "Matematik",
+    "fakulteAdi": "Fen-Edebiyat Fakültesi",
+    "url": ""
+  },
+  {
+    "bolumAdi": "Moleküler Biyoloji ve Genetik",
+    "fakulteAdi": "Fen-Edebiyat Fakültesi",
+    "url": ""
+  },
+  {
+    "bolumAdi": "Türk Dili ve Edebiyatı",
+    "fakulteAdi": "Fen-Edebiyat Fakültesi",
+    "url": ""
+  },
+  {
+    "bolumAdi": "İnsan ve Toplum Bilimleri",
+    "fakulteAdi": "Fen-Edebiyat Fakültesi",
+    "url": ""
+  },
+  {
+    "bolumAdi": "Gemi İnşaatı ve Gemi Makineleri Mühendisliği",
+    "fakulteAdi": "Gemi İnşaatı ve Denizcilik Fakültesi",
+    "url": "http://gim.yildiz.edu.tr/"
+  },
+  {
+    "bolumAdi": "Gemi Makineleri İşletme Mühendisliği",
+    "fakulteAdi": "Gemi İnşaatı ve Denizcilik Fakültesi",
+    "url": "http://gmim.yildiz.edu.tr/"
+  },
+  {
+    "bolumAdi": "İktisat",
+    "fakulteAdi": "İktisadi ve İdari Bilimler Fakültesi",
+    "url": ""
+  },
+  {
+    "bolumAdi": "İşletme",
+    "fakulteAdi": "İktisadi ve İdari Bilimler Fakültesi",
+    "url": ""
+  },
+  {
+    "bolumAdi": "Siyaset Bilimi ve Uluslararası İlişkiler",
+    "fakulteAdi": "İktisadi ve İdari Bilimler Fakültesi",
+    "url": ""
+  },
+  {
+    "bolumAdi": "İnşaat Mühendisliği",
+    "fakulteAdi": "İnşaat Fakültesi",
+    "url": "https://ins.yildiz.edu.tr/"
+  },
+  {
+    "bolumAdi": "Çevre Mühendisliği",
+    "fakulteAdi": "İnşaat Fakültesi",
+    "url": "https://cev.yildiz.edu.tr/"
+  },
+  {
+    "bolumAdi": "Harita Mühendisliği",
+    "fakulteAdi": "İnşaat Fakültesi",
+    "url": "https://har.yildiz.edu.tr/"
+  },
+  {
+    "bolumAdi": "Biyomühendislik",
+    "fakulteAdi": "Kimya-Metalurji Fakültesi",
+    "url": "http://bioeng.yildiz.edu.tr/"
+  },
+  {
+    "bolumAdi": "Gıda Mühendisliği",
+    "fakulteAdi": "Kimya-Metalurji Fakültesi",
+    "url": "http://food.yildiz.edu.tr/"
+  },
+  {
+    "bolumAdi": "Kimya Mühendisliği",
+    "fakulteAdi": "Kimya-Metalurji Fakültesi",
+    "url": "http://kmm.yildiz.edu.tr/"
+  },
+  {
+    "bolumAdi": "Matematik Mühendisliği",
+    "fakulteAdi": "Kimya-Metalurji Fakültesi",
+    "url": "http://mtm.yildiz.edu.tr/"
+  },
+  {
+    "bolumAdi": "Metalurji ve Malzeme Mühendisliği",
+    "fakulteAdi": "Kimya-Metalurji Fakültesi",
+    "url": "http://met.yildiz.edu.tr/"
+  },
+  {
+    "bolumAdi": "Makine Mühendisliği",
+    "fakulteAdi": "Makine Fakültesi",
+    "url": "http://mkm.yildiz.edu.tr/"
+  },
+  {
+    "bolumAdi": "Endüstri Mühendisliği",
+    "fakulteAdi": "Makine Fakültesi",
+    "url": "http://enm.yildiz.edu.tr/"
+  },
+  {
+    "bolumAdi": "Mekatronik Mühendisliği",
+    "fakulteAdi": "Makine Fakültesi",
+    "url": "http://mkt.yildiz.edu.tr/"
+  },
+  {
+    "bolumAdi": "Mimarlık",
+    "fakulteAdi": "Mimarlık Fakültesi",
+    "url": "http://mim.yildiz.edu.tr/"
+  },
+  {
+    "bolumAdi": "Şehir ve Bölge Planlama",
+    "fakulteAdi": "Mimarlık Fakültesi",
+    "url": "http://sbp.yildiz.edu.tr/"
+  },
+  {
+    "bolumAdi": "Kültür Varlıklarını Koruma ve Onarım",
+    "fakulteAdi": "Mimarlık Fakültesi",
+    "url": "http://kvko.yildiz.edu.tr/"
+  },
+  {
+    "bolumAdi": "İletişim Tasarımı",
+    "fakulteAdi": "Sanat ve Tasarım Fakültesi",
+    "url": "https://ilet.yildiz.edu.tr/"
+  },
+  {
+    "bolumAdi": "Müzik ve Sahne Sanatları",
+    "fakulteAdi": "Sanat ve Tasarım Fakültesi",
+    "url": "https://mssb.yildiz.edu.tr/"
+  },
+  {
+    "bolumAdi": "Sanat",
+    "fakulteAdi": "Sanat ve Tasarım Fakültesi",
+    "url": "https://sab.yildiz.edu.tr/"
+  }
+]
